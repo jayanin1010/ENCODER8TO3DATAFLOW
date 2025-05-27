@@ -51,6 +51,11 @@ Figure 02  Encoder 8 * 3
 
 5. For different input combinations generate the timing diagram.
 
+
+**TRUTH TABLE**
+
+![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
+
 **PROGRAM**
 
 
@@ -78,8 +83,9 @@ Figure 02  Encoder 8 * 3
 ![image](https://github.com/user-attachments/assets/bb9bd742-8fd9-4cdb-abe0-f8373576809d)
 
 
+
 **RESULTS**
 
-
+Thus the 8:3 encoder is verified using verilog and truth table.
 
 
